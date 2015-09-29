@@ -31,4 +31,5 @@ six
 traitlets
 google-apputils
 python-dateutil
+markerlib
 distribute
