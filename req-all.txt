@@ -29,3 +29,6 @@ setuptools
 simplegeneric
 six
 traitlets
+google-apputils
+python-dateutil
+distribute
